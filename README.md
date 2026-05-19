@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/twice-aweek/statefolder/releases/latest/download/statefolder-windows-x64.zip">
-    <img src="https://img.shields.io/badge/Download-Windows%20x64-9c27b0?style=for-the-badge&logo=windows&logoColor=white" alt="Скачать Windows x64">
+    <img src="https://img.shields.io/badge/Download-Windows%20x64-9c27b0?style=for-the-badge&logo=windows&logoColor=white" alt="Download Windows x64">
   </a>
 </p>
 
